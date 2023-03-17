@@ -1,0 +1,9 @@
+﻿  clientes.c
+C:\Users\Rúben Araújo\source\repos\ProjEDATeste\ProjEDATeste\clientes.c(168,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  gestores.c
+  main.c
+C:\Users\Rúben Araújo\source\repos\ProjEDATeste\ProjEDATeste\main.c(16,19): warning C4101: 'id': unreferenced local variable
+C:\Users\Rúben Araújo\source\repos\ProjEDATeste\ProjEDATeste\main.c(16,16): warning C4101: 'i': unreferenced local variable
+  meiosmob.c
+  Generating Code...
+  ProjEDATeste.vcxproj -> C:\Users\Rúben Araújo\source\repos\ProjEDATeste\x64\Debug\ProjEDATeste.exe
